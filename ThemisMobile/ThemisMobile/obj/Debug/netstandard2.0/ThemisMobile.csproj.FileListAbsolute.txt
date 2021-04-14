@@ -1,0 +1,15 @@
+C:\Users\Dimitris\source\repos\ThemisMobile\ThemisMobile\ThemisMobile\bin\Debug\netstandard2.0\ThemisMobile.deps.json
+C:\Users\Dimitris\source\repos\ThemisMobile\ThemisMobile\ThemisMobile\bin\Debug\netstandard2.0\ThemisMobile.dll
+C:\Users\Dimitris\source\repos\ThemisMobile\ThemisMobile\ThemisMobile\bin\Debug\netstandard2.0\ref\ThemisMobile.dll
+C:\Users\Dimitris\source\repos\ThemisMobile\ThemisMobile\ThemisMobile\bin\Debug\netstandard2.0\ThemisMobile.pdb
+C:\Users\Dimitris\source\repos\ThemisMobile\ThemisMobile\ThemisMobile\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Dimitris\source\repos\ThemisMobile\ThemisMobile\ThemisMobile\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Dimitris\source\repos\ThemisMobile\ThemisMobile\ThemisMobile\obj\Debug\netstandard2.0\ThemisMobile.AssemblyInfoInputs.cache
+C:\Users\Dimitris\source\repos\ThemisMobile\ThemisMobile\ThemisMobile\obj\Debug\netstandard2.0\ThemisMobile.AssemblyInfo.cs
+C:\Users\Dimitris\source\repos\ThemisMobile\ThemisMobile\ThemisMobile\obj\Debug\netstandard2.0\ThemisMobile.csproj.CoreCompileInputs.cache
+C:\Users\Dimitris\source\repos\ThemisMobile\ThemisMobile\ThemisMobile\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Dimitris\source\repos\ThemisMobile\ThemisMobile\ThemisMobile\obj\Debug\netstandard2.0\ThemisMobile.dll
+C:\Users\Dimitris\source\repos\ThemisMobile\ThemisMobile\ThemisMobile\obj\Debug\netstandard2.0\ref\ThemisMobile.dll
+C:\Users\Dimitris\source\repos\ThemisMobile\ThemisMobile\ThemisMobile\obj\Debug\netstandard2.0\ThemisMobile.pdb
+C:\Users\Dimitris\source\repos\ThemisMobile\ThemisMobile\ThemisMobile\obj\Debug\netstandard2.0\ThemisMobile.csprojAssemblyReference.cache
+C:\Users\Dimitris\source\repos\ThemisMobile\ThemisMobile\ThemisMobile\obj\Debug\netstandard2.0\EmployeePage.xaml.g.cs

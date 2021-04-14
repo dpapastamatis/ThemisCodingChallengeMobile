@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ThemisMobile.EmployeePage">
+    <ContentPage.Content>
+        <StackLayout>
+            <TableView>
+                <TableSection>
+                    <EntryCell Text="{Binding Employee_name}" Label="Name:  " Keyboard="Text"/>
+                    <EntryCell Text="{Binding Employee_salary}" Label="Salary(£):  " Keyboard="Numeric"/>
+                    <EntryCell Text="{Binding Employee_age}" Label="Age:  " Keyboard="Numeric"/>
+                </TableSection>
+            </TableView>
+            <Button x:Name="btnOK" Clicked="OnOKClicked" BackgroundColor="#1dabf0" TextColor="White" Text="Save"></Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

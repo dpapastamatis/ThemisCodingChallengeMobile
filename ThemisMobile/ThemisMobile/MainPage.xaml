@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage Title="Employees" xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ThemisMobile.MainPage">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem IconImageSource="add.png" Clicked="OnAdd"/>
+    </ContentPage.ToolbarItems>
+    <ContentPage.Content>
+        <StackLayout>
+            <ListView x:Name="listView">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <TextCell Text="{Binding Employee_name}" TextColor="Black"  DetailColor="Silver" Detail="{Binding Employee_salary, StringFormat= 'Salary: {0}'}">
+                            <TextCell.ContextActions>
+                                <MenuItem Text="Edit" Clicked ="OnEdit"  CommandParameter="{Binding .}"/>
+                                <MenuItem Text="Delete" Clicked ="OnDelete"  CommandParameter="{Binding .}"/>
+                            </TextCell.ContextActions>
+                        </TextCell>                    
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+               </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
